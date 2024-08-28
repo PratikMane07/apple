@@ -17,6 +17,13 @@ public class Demo {
 
 	}
 
+	public void m4() {
+		System.out.println("This is m4 method..!");
+
+	}
+
+       
+	
 	public static void main(String[] args) {
 
 		System.out.println("This is Git Demo... !");
